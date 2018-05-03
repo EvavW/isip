@@ -1,0 +1,464 @@
+==============================================================================
+NEDC Eval EEG (v3.3.0)
+
+ File: overall_DUKE/summary.txt
+ Date: Fri Feb  2 18:22:12 2018
+
+ Parameter File: /data/isip/exp/tuh_eeg/exp_0751/scripts/score_subfields/nedc_eval_eeg/params.txt
+
+ Data:
+  Ref: ['/data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA1110I8/CA1110I8.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA1900RY/CA1900RY.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA5700GN/CA5700GN.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA8080TY/CA8080TY.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/ref/MA57101T/MA57101T.tse']
+  Hyp: ['/data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA1110I8/CA1110I8.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA1900RY/CA1900RY.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA5700GN/CA5700GN.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA8080TY/CA8080TY.tse', '/data/isip/exp/tuh_eeg/exp_2148/duke/duke/MA57101T/MA57101T.tse']
+
+==============================================================================
+NIST ATWV SCORING SUMMARY (F4DE_3.3.1):
+
+PER LABEL RESULTS:
+
+ LABEL: SEIZ
+
+                          Targets:           75   <**
+                             Hits:           57   <**
+                           Misses:           18   <**
+                     False Alarms:            6   <**
+                       Insertions:            6
+                        Deletions:           18
+
+              True Positives (TP):           57
+              True Negatives (TN):           61
+             False Positives (FP):            6
+             False Negatives (FN):           18
+
+        Sensitivity (TPR, Recall):      76.0000%
+                Specificity (TNR):      91.0448%
+                  Precision (PPV):      90.4762%
+       Negative Pred. Value (NPV):      77.2152%
+                  Miss Rate (FNR):      24.0000%
+        False Positive Rate (FPR):       8.9552%
+       False Discovery Rate (FDR):       9.5238%
+        False Omission Rate (FOR):      22.7848%
+                         Accuracy:      83.0986%
+           Misclassification Rate:      16.9014%
+                       Prevalence:      52.8169%
+               F1 Score (F Ratio):       0.8261
+                 False Alarm Rate:       7.1999 per 24 hours
+                              TWV:       0.6766   <**
+
+ LABEL: BCKG
+
+                          Targets:           80   <**
+                             Hits:           61   <**
+                           Misses:           19   <**
+                     False Alarms:            7   <**
+                       Insertions:            7
+                        Deletions:           19
+
+              True Positives (TP):           61
+              True Negatives (TN):           57
+             False Positives (FP):            7
+             False Negatives (FN):           19
+
+        Sensitivity (TPR, Recall):      76.2500%
+                Specificity (TNR):      89.0625%
+                  Precision (PPV):      89.7059%
+       Negative Pred. Value (NPV):      75.0000%
+                  Miss Rate (FNR):      23.7500%
+        False Positive Rate (FPR):      10.9375%
+       False Discovery Rate (FDR):      10.2941%
+        False Omission Rate (FOR):      25.0000%
+                         Accuracy:      81.9444%
+           Misclassification Rate:      18.0556%
+                       Prevalence:      55.5556%
+               F1 Score (F Ratio):       0.8243
+                 False Alarm Rate:       8.3999 per 24 hours
+                              TWV:       0.6652   <**
+
+SUMMARY:
+
+                            Total:          155
+                             Hits:          118
+                           Misses:           37
+                     False Alarms:           13
+                       Insertions:           13
+                        Deletions:           37
+
+               True Positives(TP):          118
+             False Positives (FP):           13
+
+        Sensitivity (TPR, Recall):      76.1290%
+                  Miss Rate (FNR):      23.8710%
+                         Accuracy:      82.5175%
+           Misclassification Rate:      17.4825%
+                       Prevalence:      54.1958%
+                         F1 Score:       0.8252
+
+                   Total Duration:   72001.0000 secs
+               Total False Alarms:      13.0000 events
+           Total False Alarm Rate:      15.5998 per 24 hours
+
+                      Average TWV:       0.6709   <**
+
+==============================================================================
+NEDC DP ALIGNMENT SCORING SUMMARY (V2.0.0):
+
+         NEDC DP Alignment Confusion Matrix         
+  Ref/Hyp:         seiz                  bckg         
+     seiz:       62.00 (100.00%)        0.00 (  0.00%)
+     bckg:        0.00 (  0.00%)       67.00 (100.00%)
+
+PER LABEL RESULTS:
+
+ LABEL: SEIZ
+
+                          Targets:           75
+                             Hits:           62
+                           Misses:           13
+                     False Alarms:            1
+                       Insertions:            1   <**
+                        Deletions:           13   <**
+
+              True Positives (TP):           62
+              True Negatives (TN):           67
+             False Positives (FP):            1
+             False Negatives (FN):           13
+
+        Sensitivity (TPR, Recall):      82.6667%
+                Specificity (TNR):      98.5294%
+                  Precision (PPV):      98.4127%
+       Negative Pred. Value (NPV):      83.7500%
+                  Miss Rate (FNR):      17.3333%
+        False Positive Rate (FPR):       1.4706%
+       False Discovery Rate (FDR):       1.5873%
+        False Omission Rate (FOR):      16.2500%
+                         Accuracy:      90.2098%
+           Misclassification Rate:       9.7902%
+                       Prevalence:      52.4476%
+               F1 Score (F Ratio):       0.8986
+                 False Alarm Rate:       1.2000 per 24 hours
+
+ LABEL: BCKG
+
+                          Targets:           80
+                             Hits:           67
+                           Misses:           13
+                     False Alarms:            1
+                       Insertions:            1   <**
+                        Deletions:           13   <**
+
+              True Positives (TP):           67
+              True Negatives (TN):           62
+             False Positives (FP):            1
+             False Negatives (FN):           13
+
+        Sensitivity (TPR, Recall):      83.7500%
+                Specificity (TNR):      98.4127%
+                  Precision (PPV):      98.5294%
+       Negative Pred. Value (NPV):      82.6667%
+                  Miss Rate (FNR):      16.2500%
+        False Positive Rate (FPR):       1.5873%
+       False Discovery Rate (FDR):       1.4706%
+        False Omission Rate (FOR):      17.3333%
+                         Accuracy:      90.2098%
+           Misclassification Rate:       9.7902%
+                       Prevalence:      55.9441%
+               F1 Score (F Ratio):       0.9054
+                 False Alarm Rate:       1.2000 per 24 hours
+
+SUMMARY:
+
+                            Total:          155
+                             Hits:          129
+                           Misses:           26
+                     False Alarms:            2
+                       Insertions:            2   <**
+                        Deletions:           26   <**
+
+               True Positives(TP):          129
+             False Positives (FP):            2
+
+        Sensitivity (TPR, Recall):      83.2258%
+                  Miss Rate (FNR):      16.7742%
+                         Accuracy:      90.2098%
+           Misclassification Rate:       9.7902%
+                       Prevalence:      54.1958%
+                         F1 Score:       0.8992
+
+                   Total Duration:   72001.0000 secs
+               Total False Alarms:       2.0000 events
+           Total False Alarm Rate:       2.4000 per 24 hours
+
+==============================================================================
+NEDC Epoch Scoring Summary (v2.0.0):
+
+             NEDC Epoch Confusion Matrix            
+  Ref/Hyp:         seiz                  bckg         
+     seiz:    18286.00 ( 66.57%)     9184.00 ( 33.43%)
+     bckg:     2520.00 (  0.97%)   258014.00 ( 99.03%)
+
+PER LABEL RESULTS:
+
+ LABEL: SEIZ
+
+                          Targets:        27470
+                             Hits:        18286
+                           Misses:         9184
+                     False Alarms:         2520
+                       Insertions:         2520
+                        Deletions:         9184
+
+              True Positives (TP):        18286
+              True Negatives (TN):       258014
+             False Positives (FP):         2520
+             False Negatives (FN):         9184
+
+        Sensitivity (TPR, Recall):      66.5672%
+                Specificity (TNR):      99.0328%
+                  Precision (PPV):      87.8881%
+       Negative Pred. Value (NPV):      96.5628%
+                  Miss Rate (FNR):      33.4328%
+        False Positive Rate (FPR):       0.9672%
+       False Discovery Rate (FDR):      12.1119%
+        False Omission Rate (FOR):       3.4372%
+                         Accuracy:      95.9362%
+           Misclassification Rate:       4.0638%
+                       Prevalence:       9.5381%
+               F1 Score (F Ratio):       0.7576
+                 False Alarm Rate:     755.9895 per 24 hours
+
+ LABEL: BCKG
+
+                          Targets:       260534
+                             Hits:       258014
+                           Misses:         2520
+                     False Alarms:            0
+                       Insertions:            0
+                        Deletions:            0
+
+              True Positives (TP):       258014
+              True Negatives (TN):        18286
+             False Positives (FP):         9184
+             False Negatives (FN):         2520
+
+        Sensitivity (TPR, Recall):      99.0328%
+                Specificity (TNR):      66.5672%
+                  Precision (PPV):      96.5628%
+       Negative Pred. Value (NPV):      87.8881%
+                  Miss Rate (FNR):       0.9672%
+        False Positive Rate (FPR):      33.4328%
+       False Discovery Rate (FDR):       3.4372%
+        False Omission Rate (FOR):      12.1119%
+                         Accuracy:      95.9362%
+           Misclassification Rate:       4.0638%
+                       Prevalence:      90.4619%
+               F1 Score (F Ratio):       0.9778
+                 False Alarm Rate:    2755.1617 per 24 hours
+
+SUMMARY:
+
+                            Total:       288004
+                             Hits:       276300
+                           Misses:        11704
+                     False Alarms:         2520
+                       Insertions:         2520
+                        Deletions:         9184
+
+               True Positives(TP):       276300
+             False Positives (FP):        11704
+
+        Sensitivity (TPR, Recall):      95.9362%
+                  Miss Rate (FNR):       4.0638%
+                         Accuracy:      95.9362%
+           Misclassification Rate:       4.0638%
+                       Prevalence:      50.0000%
+                         F1 Score:       0.9411
+
+                   Total Duration:   72001.0000 secs
+               Total False Alarms:   11704.0000 events
+           Total False Alarm Rate:    3511.1512 per 24 hours
+
+==============================================================================
+NEDC Overlap Scoring Summary (v2.0.0):
+
+PER LABEL RESULTS:
+
+ LABEL: SEIZ
+
+                          Targets:           75   <**
+                             Hits:           59   <**
+                           Misses:           16   <**
+                     False Alarms:            4   <**
+                       Insertions:            4
+                        Deletions:           16
+
+              True Positives (TP):           59
+              True Negatives (TN):           80
+             False Positives (FP):            4
+             False Negatives (FN):           16
+
+        Sensitivity (TPR, Recall):      78.6667%
+                Specificity (TNR):      95.2381%
+                  Precision (PPV):      93.6508%
+       Negative Pred. Value (NPV):      83.3333%
+                  Miss Rate (FNR):      21.3333%
+        False Positive Rate (FPR):       4.7619%
+       False Discovery Rate (FDR):       6.3492%
+        False Omission Rate (FOR):      16.6667%
+                         Accuracy:      87.4214%
+           Misclassification Rate:      12.5786%
+                       Prevalence:      47.1698%
+               F1 Score (F Ratio):       0.8551
+                 False Alarm Rate:       4.7999 per 24 hours
+
+ LABEL: BCKG
+
+                          Targets:           80   <**
+                             Hits:           80   <**
+                           Misses:            0   <**
+                     False Alarms:            0   <**
+                       Insertions:            0
+                        Deletions:            0
+
+              True Positives (TP):           80
+              True Negatives (TN):           59
+             False Positives (FP):            0
+             False Negatives (FN):            0
+
+        Sensitivity (TPR, Recall):     100.0000%
+                Specificity (TNR):     100.0000%
+                  Precision (PPV):     100.0000%
+       Negative Pred. Value (NPV):     100.0000%
+                  Miss Rate (FNR):       0.0000%
+        False Positive Rate (FPR):       0.0000%
+       False Discovery Rate (FDR):       0.0000%
+        False Omission Rate (FOR):       0.0000%
+                         Accuracy:     100.0000%
+           Misclassification Rate:       0.0000%
+                       Prevalence:      57.5540%
+               F1 Score (F Ratio):       1.0000
+                 False Alarm Rate:       0.0000 per 24 hours
+
+SUMMARY:
+
+                            Total:          155   <**
+                             Hits:          139   <**
+                           Misses:           16   <**
+                     False Alarms:            4   <**
+                       Insertions:            4
+                        Deletions:           16
+
+               True Positives(TP):          139
+             False Positives (FP):            4
+
+        Sensitivity (TPR, Recall):      89.6774%
+                  Miss Rate (FNR):      10.3226%
+                         Accuracy:      93.2886%
+           Misclassification Rate:       6.7114%
+                       Prevalence:      52.0134%
+                         F1 Score:       0.8717
+
+                   Total Duration:   72001.0000 secs
+               Total False Alarms:       4.0000 events
+           Total False Alarm Rate:       4.7999 per 24 hours
+
+==============================================================================
+NEDC TAES Scoring Summary (v2.0.0):
+
+PER LABEL RESULTS:
+
+ LABEL: SEIZ
+
+                          Targets:        75.00   <**
+                             Hits:        51.17   <**
+                           Misses:        23.83   <**
+                     False Alarms:        10.26   <**
+                       Insertions:        10.26
+                        Deletions:        23.83
+
+              True Positives (TP):        51.17
+              True Negatives (TN):        66.82
+             False Positives (FP):        10.26
+             False Negatives (FN):        23.83
+
+        Sensitivity (TPR, Recall):      68.2325%
+                Specificity (TNR):      86.6884%
+                  Precision (PPV):      83.2977%
+       Negative Pred. Value (NPV):      73.7165%
+                  Miss Rate (FNR):      31.7675%
+        False Positive Rate (FPR):    1026.1112%
+       False Discovery Rate (FDR):      16.7023%
+        False Omission Rate (FOR):      26.2835%
+                         Accuracy:      77.5869%
+           Misclassification Rate:      22.4131%
+                       Prevalence:      49.3148%
+               F1 Score (F Ratio):       0.7502
+                 False Alarm Rate:      12.3132 per 24 hours
+
+ LABEL: BCKG
+
+                          Targets:        80.00   <**
+                             Hits:        66.82   <**
+                           Misses:        13.18   <**
+                     False Alarms:        11.67   <**
+                       Insertions:        11.67
+                        Deletions:        13.18
+
+              True Positives (TP):        66.82
+              True Negatives (TN):        51.17
+             False Positives (FP):        11.67
+             False Negatives (FN):        13.18
+
+        Sensitivity (TPR, Recall):      83.5287%
+                Specificity (TNR):      81.4283%
+                  Precision (PPV):      85.1308%
+       Negative Pred. Value (NPV):      79.5233%
+                  Miss Rate (FNR):      16.4713%
+        False Positive Rate (FPR):    1167.1525%
+       False Discovery Rate (FDR):      14.8692%
+        False Omission Rate (FOR):      20.4767%
+                         Accuracy:      82.6046%
+           Misclassification Rate:      17.3954%
+                       Prevalence:      56.0044%
+               F1 Score (F Ratio):       0.8432
+                 False Alarm Rate:      14.0056 per 24 hours
+
+SUMMARY:
+
+                            Total:          155   <**
+                             Hits:          118   <**
+                           Misses:           37   <**
+                     False Alarms:           22   <**
+                       Insertions:           22
+                        Deletions:           37
+
+               True Positives(TP):          118
+             False Positives (FP):           22
+
+        Sensitivity (TPR, Recall):      76.1273%
+                  Miss Rate (FNR):      23.8727%
+                         Accuracy:      80.0172%
+           Misclassification Rate:      19.9828%
+                       Prevalence:      52.5548%
+                         F1 Score:       0.7612
+
+                   Total Duration:   72001.0000 secs
+               Total False Alarms:      21.9326 events
+           Total False Alarm Rate:      26.3188 per 24 hours
+
+==============================================================================
+NEDC Inter-Rater Agreement Summary (v2.0.0):
+
+              NEDC IRA Confusion Matrix             
+  Ref/Hyp:         seiz                  bckg         
+     seiz:    18286.00 ( 66.57%)     9184.00 ( 33.43%)
+     bckg:     2520.00 (  0.97%)   258014.00 ( 99.03%)
+
+PER LABEL RESULTS:
+ Label: seiz   Kappa:       0.7358
+ Label: bckg   Kappa:       0.7358
+
+SUMMARY:
+   Multi-Class Kappa:       0.7358
+
+==============================================================================
+NEDC EEG Eval Successfully Completed on Fri Feb  2 18:22:15 2018
+==============================================================================

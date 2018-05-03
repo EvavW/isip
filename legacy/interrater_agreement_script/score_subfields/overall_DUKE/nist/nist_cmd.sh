@@ -1,0 +1,1 @@
+KWSEval -e overall_DUKE/nist/nist.ecf.xml -r overall_DUKE/nist/nist.rttm -t overall_DUKE/nist/nist.kwlist.xml -s overall_DUKE/nist/nist.kwslist.xml -S 0.5 -p 0.0001 -k 0.1 -K 1.0 -o -b 		-d -c -f overall_DUKE/nist/nist

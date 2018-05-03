@@ -1,0 +1,10 @@
+Loading ECF overall_TUSZ/nist/nist.ecf.xml
+Loading KWSList File overall_TUSZ/nist/nist.kwslist.xml
+Loading KWList File overall_TUSZ/nist/nist.kwlist.xml
+Loading RTTM File overall_TUSZ/nist/nist.rttm
+Performing Occurrence Alignment
+Computing requested DET curves and reports
+Summary Report: overall_TUSZ/nist/nist.sum
+Wrote: overall_TUSZ/nist/nist.sum.txt
+Block Summary Report: overall_TUSZ/nist/nist.bsum
+Wrote: overall_TUSZ/nist/nist.bsum.txt

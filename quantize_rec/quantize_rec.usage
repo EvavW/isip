@@ -1,0 +1,1 @@
+Usage: quantize_rec -odir output -rdir replace edf.list rec.list

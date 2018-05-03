@@ -1,0 +1,13 @@
+## main script name is interrater_agreement.py
+
+the arguments can be used are ratio and kappa with argument --stat_type (statistic type)
+
+example:
+python interrater_agreement.py --stat_type ratio
+
+Names of the annotators would be asked following by their list of files. files should be available for all the annotators.
+All the files must be lab_ov files and should be arranged in proper directory structure. i.e. /00000032/s01_xx_xx_Xxxx/a_x.lab_ov
+
+
+
+results would be in format of Hit, MIss and FA.

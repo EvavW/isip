@@ -1,0 +1,27 @@
+<ecf source_signal_duration="147903.0000" language="english" version="">
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA1110I8_CA1110I8.tse" channel="1" tbeg="0.0000" dur="14400.5000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA1900RY_CA1900RY.tse" channel="1" tbeg="0.0000" dur="14400.4000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA5700GN_CA5700GN.tse" channel="1" tbeg="0.0000" dur="14400.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA8080TY_CA8080TY.tse" channel="1" tbeg="0.0000" dur="14400.1000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_MA57101T_MA57101T.tse" channel="1" tbeg="0.0000" dur="14400.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_005_005_02_030_a00.tse" channel="1" tbeg="0.0000" dur="4958.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_005_005_02_030_a01.tse" channel="1" tbeg="0.0000" dur="16685.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_005_005_02_030_a02.tse" channel="1" tbeg="0.0000" dur="277.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_005_005_02_030_a03.tse" channel="1" tbeg="0.0000" dur="272.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_005_005_02_030_a04.tse" channel="1" tbeg="0.0000" dur="277.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_010_010_02_052_a00.tse" channel="1" tbeg="0.0000" dur="281.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_010_010_02_052_a01.tse" channel="1" tbeg="0.0000" dur="21683.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_011_011_02_057_a00.tse" channel="1" tbeg="0.0000" dur="21905.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_emory_ref_011_011_02_057_a01.tse" channel="1" tbeg="0.0000" dur="192.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_010_00001721_s01_2013_02_01_a_.tse" channel="1" tbeg="0.0000" dur="1359.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_010_00001721_s02_2013_02_01_a_2.tse" channel="1" tbeg="0.0000" dur="836.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_010_00001721_s02_2013_02_01_a_3.tse" channel="1" tbeg="0.0000" dur="805.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_010_00001721_s02_2013_02_01_a_4.tse" channel="1" tbeg="0.0000" dur="1531.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_010_00001721_s02_2013_02_01_a_5.tse" channel="1" tbeg="0.0000" dur="868.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_010_00001721_s03_2013_02_01_a_1.tse" channel="1" tbeg="0.0000" dur="960.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_010_00001721_s03_2013_02_01_a_2.tse" channel="1" tbeg="0.0000" dur="943.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_103_00000126_s01_2004_02_06_a_1.tse" channel="1" tbeg="0.0000" dur="1171.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_103_00000126_s04_2004_02_06_a_1.tse" channel="1" tbeg="0.0000" dur="353.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_103_00000126_s04_2004_02_06_a_2.tse" channel="1" tbeg="0.0000" dur="212.0000" source_type="bnews"/>
+  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_neuro_eval_ref_103_00000126_s04_2004_02_06_a_.tse" channel="1" tbeg="0.0000" dur="334.0000" source_type="bnews"/>
+</ecf>

@@ -1,0 +1,18 @@
+name: quantize_rec
+synopsis: quantize_redc [options] edf.list rec.list
+descr: quantizes rec files based on the sample frequency of the edf file
+
+options:
+ -odir: output directory [EXP_DIR/output]
+ -rdir: replace directory [None]
+ -help: display this help message
+
+arguments:
+ edf.list: a list of ".edf" files
+ rec.list: a list of ".rec" files, corresponding to edf files
+
+examples:
+
+ quantize_rec.py -odir output -rdir replace edf.list rec.list
+
+  quantizes files in rec.list, based on edf.list

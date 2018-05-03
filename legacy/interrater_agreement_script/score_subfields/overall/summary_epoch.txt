@@ -1,0 +1,150 @@
+    0: /data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA1110I8/CA1110I8.tse
+       /data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA1110I8/CA1110I8.tse
+  Ref:  bckg  SEIZ  seiz  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg 
+  Hyp:  bckg  BCKG  seiz  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg 
+        (Hits: 9  Sub: 7  Ins: 0  Del: 0  Total: 7)
+
+    1: /data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA1900RY/CA1900RY.tse
+       /data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA1900RY/CA1900RY.tse
+  Ref:  bckg  SEIZ  seiz  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  bckg  SEIZ  seiz  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  bckg 
+  Hyp:  bckg  BCKG  seiz  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  bckg  BCKG  seiz  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  bckg 
+        (Hits: 27  Sub: 20  Ins: 0  Del: 0  Total: 20)
+
+    2: /data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA5700GN/CA5700GN.tse
+       /data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA5700GN/CA5700GN.tse
+  Ref:  bckg  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  bckg  SEIZ  seiz  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  bckg  SEIZ  seiz  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  BCKG  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  seiz  SEIZ  bckg  SEIZ  seiz  bckg  SEIZ  seiz  SEIZ  bckg  seiz  BCKG  bckg  SEIZ  seiz  bckg  SEIZ  seiz  bckg  SEIZ  bckg 
+  Hyp:  bckg  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  bckg  BCKG  seiz  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  bckg  BCKG  seiz  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  bckg  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  seiz  BCKG  bckg  BCKG  seiz  bckg  BCKG  seiz  BCKG  bckg  seiz  SEIZ  bckg  BCKG  seiz  bckg  BCKG  seiz  bckg  BCKG  bckg 
+        (Hits: 50  Sub: 41  Ins: 0  Del: 0  Total: 41)
+
+    3: /data/isip/exp/tuh_eeg/exp_2148/duke/ref/CA8080TY/CA8080TY.tse
+       /data/isip/exp/tuh_eeg/exp_2148/duke/duke/CA8080TY/CA8080TY.tse
+  Ref:  bckg  seiz  bckg  SEIZ  seiz  bckg  seiz  BCKG  bckg  BCKG  seiz  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  seiz  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  seiz  BCKG  bckg  seiz  BCKG  bckg  BCKG  seiz  bckg 
+  Hyp:  bckg  seiz  bckg  BCKG  seiz  bckg  seiz  SEIZ  bckg  SEIZ  seiz  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  seiz  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  seiz  SEIZ  bckg  seiz  SEIZ  bckg  SEIZ  seiz  bckg 
+        (Hits: 25  Sub: 14  Ins: 0  Del: 0  Total: 14)
+
+    4: /data/isip/exp/tuh_eeg/exp_2148/duke/ref/MA57101T/MA57101T.tse
+       /data/isip/exp/tuh_eeg/exp_2148/duke/duke/MA57101T/MA57101T.tse
+  Ref:  bckg  SEIZ  seiz  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  bckg  BCKG  seiz  bckg  SEIZ  seiz  BCKG  bckg  BCKG  bckg  SEIZ  seiz  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  bckg  SEIZ  seiz  bckg 
+  Hyp:  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  BCKG  bckg  SEIZ  seiz  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  bckg  BCKG  seiz  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  BCKG  bckg  BCKG  bckg  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  bckg  BCKG  seiz  bckg 
+        (Hits: 32  Sub: 28  Ins: 0  Del: 0  Total: 28)
+
+    5: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/005/005_02_030_a00.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/005/005_02_030_a00.tse
+  Ref:  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  bckg 
+  Hyp:  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  bckg 
+        (Hits: 27  Sub: 25  Ins: 0  Del: 0  Total: 25)
+
+    6: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/005/005_02_030_a01.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/005/005_02_030_a01.tse
+  Ref:  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg 
+  Hyp:  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg 
+        (Hits: 67  Sub: 63  Ins: 0  Del: 0  Total: 63)
+
+    7: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/005/005_02_030_a02.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/005/005_02_030_a02.tse
+  Ref:  bckg  SEIZ  seiz  BCKG  bckg 
+  Hyp:  bckg  BCKG  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+    8: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/005/005_02_030_a03.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/005/005_02_030_a03.tse
+  Ref:  bckg  BCKG  seiz  BCKG  bckg 
+  Hyp:  bckg  SEIZ  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+    9: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/005/005_02_030_a04.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/005/005_02_030_a04.tse
+  Ref:  bckg  SEIZ  seiz  BCKG  bckg 
+  Hyp:  bckg  BCKG  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   10: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/010/010_02_052_a00.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/010/010_02_052_a00.tse
+  Ref:  bckg  BCKG  seiz  BCKG  bckg 
+  Hyp:  bckg  SEIZ  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   11: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/010/010_02_052_a01.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/010/010_02_052_a01.tse
+  Ref:  bckg  SEIZ  bckg  SEIZ  bckg  BCKG  bckg  BCKG  bckg  SEIZ  bckg  SEIZ  bckg  BCKG  bckg  SEIZ  bckg  BCKG  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  bckg  BCKG  seiz  BCKG  bckg  BCKG  bckg  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  bckg  BCKG  bckg  SEIZ  bckg  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  bckg  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  bckg  SEIZ  bckg 
+  Hyp:  bckg  BCKG  bckg  BCKG  bckg  SEIZ  bckg  SEIZ  bckg  BCKG  bckg  BCKG  bckg  SEIZ  bckg  BCKG  bckg  SEIZ  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  bckg  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  bckg  SEIZ  bckg  BCKG  bckg  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  bckg  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  bckg  BCKG  bckg 
+        (Hits: 43  Sub: 42  Ins: 0  Del: 0  Total: 42)
+
+   12: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/011/011_02_057_a00.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/011/011_02_057_a00.tse
+  Ref:  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  SEIZ  bckg  SEIZ  seiz  bckg 
+  Hyp:  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  SEIZ  bckg  BCKG  bckg  BCKG  seiz  SEIZ  bckg  BCKG  seiz  BCKG  bckg  SEIZ  seiz  BCKG  bckg  BCKG  seiz  SEIZ  bckg  SEIZ  seiz  SEIZ  bckg  BCKG  seiz  BCKG  bckg  BCKG  seiz  bckg 
+        (Hits: 20  Sub: 18  Ins: 0  Del: 0  Total: 18)
+
+   13: /data/isip/exp/tuh_eeg/exp_2148/emory/ref/011/011_02_057_a01.tse
+       /data/isip/exp/tuh_eeg/exp_2148/emory/emory/011/011_02_057_a01.tse
+  Ref:  bckg  SEIZ  seiz  BCKG  bckg 
+  Hyp:  bckg  BCKG  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   14: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/010/00001721/s01_2013_02_01/a_.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/010/00001721/s01_2013_02_01/a_.tse
+  Ref:  bckg  SEIZ  seiz  SEIZ  bckg 
+  Hyp:  bckg  BCKG  seiz  BCKG  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   15: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/010/00001721/s02_2013_02_01/a_2.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/010/00001721/s02_2013_02_01/a_2.tse
+  Ref:  bckg  SEIZ  seiz  SEIZ  bckg 
+  Hyp:  bckg  BCKG  seiz  BCKG  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   16: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/010/00001721/s02_2013_02_01/a_3.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/010/00001721/s02_2013_02_01/a_3.tse
+  Ref:  bckg  SEIZ  seiz  BCKG  bckg 
+  Hyp:  bckg  BCKG  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   17: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/010/00001721/s02_2013_02_01/a_4.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/010/00001721/s02_2013_02_01/a_4.tse
+  Ref:  bckg  SEIZ  seiz  bckg  SEIZ  seiz  SEIZ  bckg 
+  Hyp:  bckg  BCKG  seiz  bckg  BCKG  seiz  BCKG  bckg 
+        (Hits: 5  Sub: 3  Ins: 0  Del: 0  Total: 3)
+
+   18: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/010/00001721/s02_2013_02_01/a_5.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/010/00001721/s02_2013_02_01/a_5.tse
+  Ref:  bckg  SEIZ  seiz  BCKG  bckg 
+  Hyp:  bckg  BCKG  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   19: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/010/00001721/s03_2013_02_01/a_1.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/010/00001721/s03_2013_02_01/a_1.tse
+  Ref:  bckg  BCKG  seiz  BCKG  bckg 
+  Hyp:  bckg  SEIZ  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   20: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/010/00001721/s03_2013_02_01/a_2.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/010/00001721/s03_2013_02_01/a_2.tse
+  Ref:  bckg  BCKG  seiz  BCKG  bckg 
+  Hyp:  bckg  SEIZ  seiz  SEIZ  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   21: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/103/00000126/s01_2004_02_06/a_1.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/103/00000126/s01_2004_02_06/a_1.tse
+  Ref:  bckg  BCKG  seiz  SEIZ  bckg 
+  Hyp:  bckg  SEIZ  seiz  BCKG  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   22: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/103/00000126/s04_2004_02_06/a_1.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/103/00000126/s04_2004_02_06/a_1.tse
+  Ref:  bckg  BCKG  seiz  SEIZ  bckg 
+  Hyp:  bckg  SEIZ  seiz  BCKG  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+
+   23: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/103/00000126/s04_2004_02_06/a_2.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/103/00000126/s04_2004_02_06/a_2.tse
+  Ref:  bckg  BCKG  seiz  bckg 
+  Hyp:  bckg  SEIZ  seiz  bckg 
+        (Hits: 3  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+   24: /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/ref/103/00000126/s04_2004_02_06/a_.tse
+       /data/isip/exp/tuh_eeg/exp_2148/neuro_eval/neuro/aggregate/103/00000126/s04_2004_02_06/a_.tse
+  Ref:  bckg  BCKG  seiz  SEIZ  bckg 
+  Hyp:  bckg  SEIZ  seiz  BCKG  bckg 
+        (Hits: 3  Sub: 2  Ins: 0  Del: 0  Total: 2)
+

@@ -1,0 +1,23 @@
+|  Performance Summary Over and Ensemble of Subsets  |
+|               Key               |      Value       |
+|---------------------------------+------------------+
+|                    System Title |               NA |
+|                     Decision ID |       Occurrence |
+|      IncludeBlocksWithNoTargets |                0 |
+|                          TotDur |            72001 |
+|                       TotTrials |            72001 |
+|                 TrialsPerSecond |                1 |
+|                            BETA |            999.9 |
+|                            Cost |              0.1 |
+|                           Ptarg |           0.0001 |
+|                           Value |              1.0 |
+
+
+                    |  MetaData  |                              Occurrence                               |
+                    |    Text    |  #Targ  |  #Corr  |  #FA  |  #Miss  |   TWV    |    PFA    |  PMISS   |
+--------------------+------------+---------+---------+-------+---------+----------+-----------+----------+
+Keyword  term-bckg  |       bckg |      80 |      61 |     7 |      19 |   0.6652 |   0.00010 |    0.237 |
+         term-seiz  |       seiz |      75 |      57 |     6 |      18 |   0.6766 |   0.00008 |    0.240 |
+Summary  Totals     |            |     155 |     118 |    13 |      37 |          |           |          |
+         Means      |            |      78 |      59 |     6 |      18 |          |   0.00009 |    0.239 |
+         TWV        |            |         |         |       |         |   0.6709 |           |          |
