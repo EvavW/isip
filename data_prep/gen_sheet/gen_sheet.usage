@@ -1,0 +1,1 @@
+python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/gen_sheet/gen_sheet.py -info [session information] tse.list

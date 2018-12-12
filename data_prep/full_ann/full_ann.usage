@@ -1,0 +1,1 @@
+Usage: python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/full_ann/full_ann.py -rdir [replace dir] -odir [output dir] -ext [ofile ext] -label [fill label] rec.list edf.list

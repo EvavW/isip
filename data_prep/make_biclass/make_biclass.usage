@@ -1,0 +1,1 @@
+python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/make_biclass/mak_biclass.py -rdir [replace dir] -odir [output dir] -ext [ofile ext] rec.list

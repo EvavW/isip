@@ -1,0 +1,26 @@
+name: get_list.py
+synopsis: get_list.py [options] flist
+description: creates a new list of files assocated with the list that is 
+	     passed with top level dirs and a new file extension
+
+options:
+ -rdir: replace dir ( to be replaced with odir)
+ -odir: ouput dir
+ -ext: ofile extension. default is edf
+
+arguments:
+ 1: list of files that you want to get the assocated new files for. Can be
+ either channel based or not. First dirs should be the same as -rdir
+
+examples:
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/get_list/get_list.py -rdir ~/test/train/ -odir /data/isip/data/tuh_eeg/v1.1.0/edf/
+rec.list
+
+	will get a list of edf files assocated with the passed list of rec 
+	files. 
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/get_list/get_list.py -rdir ~/test/rec/ -odir ~/test/tse/ -ext tse rec.list
+
+	convert a list of rec files in test/rec into a list of tse files in
+	test/tse

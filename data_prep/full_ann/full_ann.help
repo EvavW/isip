@@ -1,0 +1,26 @@
+Bname: full_ann.py
+synopsis: full_ann.py [options] reclist edflist
+description: fully annotates rec files: fills in gaps between existing
+	     annotations with background. Will erase existing background
+	     annotations. Will adjust annotations starting the first second
+	     and/or ending in the last second of the file to start no sooner
+	     than 1.000 and end no later than 1 second before the end of the
+	     associated edf file.
+
+options:
+-rdir : the replace directory ( to be replaced with the output dir)
+-odir : the ouput directory
+-label : the label that you want to fully annotate with
+-ext : extension of the output file
+
+arguments:
+1: a list of rec files
+2: a list of associated edf files
+# lists must be in the same order	
+
+example:
+
+python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/full_ann/full_ann.py -rdir ~/ -odir /data/isip/... -ext rec rec.list edf.list
+
+       takes rec files in your home directory, fully annotates them, and 
+       outputs fully annotated files with .rec extentsion to /data/isip/...

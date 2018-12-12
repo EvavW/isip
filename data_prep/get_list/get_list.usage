@@ -1,0 +1,1 @@
+python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/get_list/get_edf_list.py -rdir [replace dir] -odir [ouput dir] -ext [ofile ext] files.list

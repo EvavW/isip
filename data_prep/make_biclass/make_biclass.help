@@ -1,0 +1,21 @@
+name: make_biclass.py
+synopsis: make_biclass.py [options] reclis
+description: creates rec_bi files from a list of rec files. In rec_bi files
+	     all seizure labels (8-18) are converted to 7. change ext variable
+	     to overwrite rec files rather than create rec_bi files. 
+
+options:
+-rdir : the replace directory ( to be replaced with the output dir)
+-odir : the ouput directory
+-ext: extension of the ofile
+
+arguments:
+ 1: a list of rec files
+
+
+example:
+	
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/make_biclass/mak_biclass.py -rdir ~/test -odir ~/output -ext rec_bi rec.list
+
+	will create rec_bi files at ~/output based on rec files at ~/test

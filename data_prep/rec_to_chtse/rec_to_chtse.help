@@ -1,0 +1,21 @@
+name: rec_to_chtse.py
+synopsis: rec_to_chtse.py [options] rec.list
+description: creates channel based tse files from a list of rec files. 
+	     default file extension is tse. Change using -ext
+
+options:
+-rdir : the replace directory ( to be replaced with the output dir)
+-odir : the ouput directory
+-mfile : the annotation map
+-ext : extension of the output file
+
+arguments:
+1: a list of rec files
+
+example:
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/rec_to_chtse/rec_to_chtse.py -rdir ~/test/ -odir ~/output/ -ext tse_bi rec_bi.list
+
+	convert list of rec_bi files in a test dir to channel based tse_files 
+	in an output dir
+

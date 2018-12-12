@@ -1,0 +1,26 @@
+name: remove_label.py
+synopsis: remove_label.py [options] rec.list
+description: removes a desired label from a list of rec files. default is 
+	     to remove bckg (6) annotations.
+
+options:
+-rdir : the replace directory ( to be replaced with the output dir)
+-odir : the ouput directory
+-ext : extension of the output file
+-label (-l) : label you wish to remove
+
+arguments:
+1: a list of rec files
+
+example:
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/remove_label/remove_label.py -rdir ~/test/ -odir ~/test/ rec.list
+
+	remove background from a list of rec files. Overwrite original files
+
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/remove_label/remove_label.py -rdir ~/test/ -odir ~/output/ -l 7 -ext rec_no_seiz rec_bi.list
+
+	create rec files called rec_no_seiz where all seiz (7) annotations 
+	have been removed from a list of rec_bi files. store in output 
+	directory

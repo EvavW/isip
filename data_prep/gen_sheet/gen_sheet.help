@@ -1,0 +1,27 @@
+name: gen_sheet.py
+synopsis: python gen_sheet.py [options] tse.list
+description: this script creates a spreadsheet to be used in the release of
+	     TUSZ. A complete record of session information, seizures per 
+	     session, seizures per file, and start and stop time of each
+	     seizure event will be printed to the console. Paste output into
+	     existing _SEIZURES excel sheet and adjsust ranges in sum cells to
+	     complete generation of the spreadsheet.
+
+options:
+-info: the location of a file in csv format that contains information on each
+       session included in the list of tse files that is passed. Should be in
+       the same format as session_info.csv in this directory
+       example: 9162,s003,ICU,NICU,LTM,Abnormal
+       
+
+arguments:
+	1: a list of tse files. recommended to use relative path since the 
+	entire file name will be printed. List should be sorted using:
+	sort -t"," -k1n,1 -k2n,2 tse.list -o tse.list
+
+examples:
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/gen_sheet/gen_sheet.py -info /data/isip/data/tuh_eeg_seizure/work/_TOOLS/gen_sheet/session_info.csv tse.list
+
+	will generate seizure information for every file in the list of tse
+	tse files.

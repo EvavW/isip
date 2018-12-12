@@ -1,0 +1,25 @@
+name: rec_to_rect.py
+synopsis: rec_to_rect.py [options] rec.list
+description: creates term based .rect files from .rec files. Default extension
+	     will be rect from rec and rect_bi from rec_bi. Term based 
+	     annotations have the same annotation on every channel. events
+	     will be snapped to the earliest start time and latest end time
+
+options:
+-rdir : the replace directory ( to be replaced with the output dir)
+-odir : the ouput directory
+-ext : extension of the output file
+
+arguments:
+1: a list of rec files
+
+example:
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/rec_to_rect/rec_to_rect.py -rdir ~/test/ -odir ~/output -ext rect_bi rec_bi.list
+
+	create rect_bi files at an output directory from a list of rec_bi files
+	located at a test directory
+
+	python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/rec_to_rect/rec_to_rect.py -rdir ~/test/ -odir ~/output -ext rec_bi rec_bi.list
+
+	overwrites existing rec_bi files with term based annotations

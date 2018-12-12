@@ -1,0 +1,42 @@
+# file: $(NEDC_NFC)/python/nedc_rec_to_lbl/map_v00.txt
+#
+# This file defines labels, labels id and labels order.
+# The labels with higher label orders have higher priority.
+# the format is: LABEL_NAME, LABEL_ID, LABEL_ORDER
+#
+
+# declare a version no.
+#
+version = param_v1.0.0
+
+# declare a map
+#
+REC_MAP {
+ 0 = null
+ 1 = spsw
+ 2 = gped
+ 3 = pled
+ 4 = eyeb
+ 5 = artf
+ 6 = bckg
+ 7 = seiz
+ 8 = fnsz
+ 9 = gnsz
+ 10 = spsz
+ 11 = cpsz
+ 12 = absz
+ 13 = tnsz
+ 14 = cnsz
+ 15 = tcsz
+ 16 = atsz
+ 17 = mysz
+ 18 = nesz
+ 19 = intr
+ 20 = slow
+ 21 = eyem
+ 22 = chew
+ 23 = shiv
+ 24 = musc
+ 25 = elpp
+ 26 = elst
+}

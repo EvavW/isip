@@ -1,0 +1,1 @@
+python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/rec_to_chtse/rec_to_chtse.py -rdir [replace dir] -odir [output dir] -mfile [annotation map] -ext [ofile ext] rec.list

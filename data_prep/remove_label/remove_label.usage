@@ -1,0 +1,2 @@
+python /data/isip/data/tuh_eeg_seizure/work/_TOOLS/data_prep/remove_lab\
+el/remove_label.py -rdir [replace dir] -odir [output dir] -label [label to remove] -ext [ofile ext] rec.list
