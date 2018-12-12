@@ -1,1 +1,0 @@
-KWSEval -e overall_EMORY/nist/nist.ecf.xml -r overall_EMORY/nist/nist.rttm -t overall_EMORY/nist/nist.kwlist.xml -s overall_EMORY/nist/nist.kwslist.xml -S 0.5 -p 0.0001 -k 0.1 -K 1.0 -o -b 		-d -c -f overall_EMORY/nist/nist

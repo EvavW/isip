@@ -1,7 +1,0 @@
-<ecf source_signal_duration="72001.0000" language="english" version="">
-  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA1110I8_CA1110I8.tse" channel="1" tbeg="0.0000" dur="14400.5000" source_type="bnews"/>
-  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA1900RY_CA1900RY.tse" channel="1" tbeg="0.0000" dur="14400.4000" source_type="bnews"/>
-  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA5700GN_CA5700GN.tse" channel="1" tbeg="0.0000" dur="14400.0000" source_type="bnews"/>
-  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_CA8080TY_CA8080TY.tse" channel="1" tbeg="0.0000" dur="14400.1000" source_type="bnews"/>
-  <excerpt audio_filename="_data_isip_exp_tuh_eeg_exp_2148_duke_ref_MA57101T_MA57101T.tse" channel="1" tbeg="0.0000" dur="14400.0000" source_type="bnews"/>
-</ecf>
